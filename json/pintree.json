@@ -456,6 +456,13 @@
             "title": "SDN网络指南",
             "icon": "https://logo.clearbit.com/www.bookstack.cn",
             "url": "https://www.bookstack.cn/read/sdn-handbook/ovs-build.md"
+          },
+          {
+            "type": "link",
+            "addDate": 1722911726920,
+            "title": "书栈网",
+            "icon": "https://logo.clearbit.com/www.bookstack.cn",
+            "url": "https://www.bookstack.cn/"
           }
         ]
       },
